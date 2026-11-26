@@ -1,0 +1,22 @@
+*.iml
+.gradle/
+.idea/
+local.properties
+**/build/
+*.jks
+*.keystore
+
+# Build deliverables are distributed separately
+Android-Agent-debug.apk
+
+__pycache__/
+bridge/*.sqlite3*
+bridge/*.pem
+bridge/node_modules/
+bridge/.env
+
+/vendor/
+/app/src/main/assets/speech/
+**/.cxx/
+
+.kotlin/

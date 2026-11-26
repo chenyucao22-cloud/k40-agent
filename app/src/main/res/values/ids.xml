@@ -1,0 +1,9 @@
+<resources>
+    <item name="sandbox_marker" type="id" />
+    <item name="demo_click" type="id" />
+    <item name="demo_input" type="id" />
+    <item name="demo_scroll" type="id" />
+    <item name="demo_send" type="id" />
+    <item name="sensitive_password" type="id" />
+    <item name="sensitive_otp" type="id" />
+</resources>

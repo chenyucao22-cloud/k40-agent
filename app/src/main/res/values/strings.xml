@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Agent</string>
+    <string name="service_description">仅在您确认任务后操作 Android Agent 独立测试界面。只识别预定义控件标识，不读取界面文字、密码、验证码、通知或其他应用内容。紧急停止会撤销任务并禁用本服务。可随时在系统设置关闭授权。</string>
+</resources>
